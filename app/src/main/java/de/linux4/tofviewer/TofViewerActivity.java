@@ -1,4 +1,4 @@
-package com.lvonasek.tofviewer;
+package de.linux4.tofviewer;
 
 import android.Manifest;
 import android.app.Activity;

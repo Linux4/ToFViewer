@@ -1,4 +1,4 @@
-package com.lvonasek.tofviewer;
+package de.linux4.tofviewer;
 
 import android.content.Context;
 import android.opengl.GLES20;
